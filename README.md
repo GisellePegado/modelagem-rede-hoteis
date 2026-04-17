@@ -1,11 +1,11 @@
-# Rede de Hotéis — Modelagem Conceitual de Banco de Dados
+# 🏨 Rede de Hotéis — Modelagem Conceitual de Banco de Dados
 
 > Projeto de **Banco de Dados** — UNINTER  
 > Curso: Análise e Desenvolvimento de Sistemas · 2025
 
 ---
 
-## Sobre o Projeto
+## 📖 Sobre o Projeto
 
 A partir de [regras de negócio](docs/business-rules.md) fornecidas para uma **Rede de Hotéis**, foi elaborado o **Modelo Entidade-Relacionamento (MER)** — etapa de modelagem conceitual do banco de dados.
 
@@ -13,7 +13,7 @@ O MER contempla entidades, atributos, relacionamentos, cardinalidades, chaves pr
 
 ---
 
-## Entidades
+## 🏛️ Entidades
 
 | Entidade      | Chave Primária           | Descrição                                         |
 | ------------- | ------------------------ | ------------------------------------------------- |
@@ -27,7 +27,7 @@ O MER contempla entidades, atributos, relacionamentos, cardinalidades, chaves pr
 
 ---
 
-## Relacionamentos e Cardinalidades
+## 🔗 Relacionamentos e Cardinalidades
 
 | Relacionamento | Entidades             |      Cardinalidade      |
 | -------------- | --------------------- | :---------------------: |
@@ -40,7 +40,7 @@ O MER contempla entidades, atributos, relacionamentos, cardinalidades, chaves pr
 
 ---
 
-## Modelo Entidade-Relacionamento (MER)
+## 📐 Modelo Entidade-Relacionamento (MER)
 
 ![MER — Rede de Hotéis](assets/mer-rede-hoteis.jpg)
 
@@ -48,7 +48,7 @@ _Modelo criado usando a ferramenta [Miro](https://miro.com/app/board/uXjVIj6jl0g
 
 ---
 
-## Documentação
+## 📑 Documentação
 
 | Documento                                   | Descrição                             |
 | ------------------------------------------- | ------------------------------------- |
@@ -56,7 +56,7 @@ _Modelo criado usando a ferramenta [Miro](https://miro.com/app/board/uXjVIj6jl0g
 
 ---
 
-## Conceitos explorados
+## 🧠 Conceitos explorados
 
 Este projeto documenta os seguintes conceitos de modelagem de banco de dados na pasta [`concepts/`](concepts/):
 
