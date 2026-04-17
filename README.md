@@ -56,13 +56,6 @@ _Modelo criado usando a ferramenta [Miro](https://miro.com/app/board/uXjVIj6jl0g
 
 ---
 
-## 👩‍💻 Autora
-
-**Giselle S.**  
-Análise e Desenvolvimento de Sistemas — UNINTER · 2025
-
----
-
 ## Conceitos explorados
 
 Este projeto documenta os seguintes conceitos de modelagem de banco de dados na pasta [`concepts/`](concepts/):
@@ -76,3 +69,10 @@ Este projeto documenta os seguintes conceitos de modelagem de banco de dados na 
 | [Composite Attributes](concepts/composite-attributes.md)           | Atributos decompostos em sub-atributos com significado próprio, como endereço         |
 
 > Os arquivos de conceito contêm explicações detalhadas e exemplos extraídos diretamente da modelagem.
+
+---
+
+## 👩‍💻 Autora
+
+**Giselle Pegado**  
+Análise e Desenvolvimento de Sistemas — UNINTER · 2025
