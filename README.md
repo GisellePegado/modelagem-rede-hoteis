@@ -40,7 +40,7 @@ O MER contempla entidades, atributos, relacionamentos, cardinalidades, chaves pr
 
 ---
 
-## Modelo Entidade-Relacionamento
+## Modelo Entidade-Relacionamento (MER)
 
 ![MER — Rede de Hotéis](assets/mer-rede-hoteis.jpg)
 
